@@ -1,4 +1,4 @@
-# Final Capstone
+# Capstone Project - NLP
 The final capstone project was divided into two parts: NLP 1 and NLP 2. NLP 1 explored text classification techniques in email folder allocation, essay grading assistance and  Diagnostic Assistive Technology. NLP 2 focused on Google Assistant, utilizing advanced NLP algorithms for intelligent question answering and natural language interactions.
 ## NLP1
 The use-case analysis highlights three applications of Natural Language Processing (NLP). These include email folder allocation using text classification, essay grading assistance through predefined criteria, and diagnostic assistive technology leveraging question-answering techniques. These examples showcase the diverse functionalities and benefits of NLP in managing emails, grading essays, and aiding in medical diagnoses.
