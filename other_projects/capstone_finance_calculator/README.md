@@ -4,17 +4,19 @@ This Python program is a financial calculator that allows users to calculate the
 
 ## Table of Contents
 
-- [Getting Started](#gettingstarted)
+- [Getting Started](#getting-started)
 - [Usage](#usage)
 - [Contributions](#contributions)
 - [License](#license)
 - [Acknowledgements](#acknowledgements)
+
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
 This is an example of how you may give instructions on setting up your project locally.
 To get a local copy up and running follow these simple example steps.
+
 
 ### Installation
 
