@@ -25,8 +25,8 @@
 <!-- ABOUT THE PROJECT -->
 ## About The Project
 
-This data analyzes gun-related data using a jupyter Notebook. It explores trends, disparities, and implications of gun-related deaths by examining factors such as time, education level, age group, race, location, and gender. Insights gained shed light on the complex nature of gun violence in the United States. This contains a [.ipynb file](https://github.com/CharuKes/finalCapstone/blob/main/other_projects/gun_deaths_in_the_US_2006-2020/gun-deaths-in-the-us-2006-2020.ipynb) that generates an in-depth PCA and data clustering report of the data using unsupervised machine learning.
-Dataset can be found: https://www.kaggle.com/code/charukesharwani/gun-deaths-in-the-us-2006-2020/input
+This project analyzes gun-related data using a jupyter Notebook. It explores trends, disparities, and implications of gun-related deaths by examining factors such as time, education level, age group, race, location, and gender. Insights gained shed light on the complex nature of gun violence in the United States. This contains a [.ipynb file](https://github.com/CharuKes/finalCapstone/blob/main/other_projects/gun_deaths_in_the_US_2006-2020/gun-deaths-in-the-us-2006-2020.ipynb) and
+dataset can be found [here](https://www.kaggle.com/code/charukesharwani/gun-deaths-in-the-us-2006-2020/input).
 
 ### Built With
 
@@ -68,8 +68,9 @@ This is an example of how to list things you need to use the software and how to
    py -m pip install numpy
    ```
 6. Download the .ipynb and .csv files from this repository
-7. Run the files
-Project was created and run with Jupyter lab.
+7. Run the files   
+
+Note: The project was created and executed using JupyterLab, and it can be run either from JupyterLab or Jupyter Notebook.
 
 
 
