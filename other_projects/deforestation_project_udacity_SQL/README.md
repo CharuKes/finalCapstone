@@ -13,7 +13,7 @@ To install and run the ForestQuery project locally, follow these steps:
    git clone https://github.com/CharuKes/finalCapstone.git
    ```
 2. Set up a database system (I used PostgreSQL) and import the provided [data tables](https://github.com/CharuKes/finalCapstone/tree/main/other_projects/deforestation_project_udacity_SQL/data).
-3. The relationship between 3 tables can be seen [here](https://github.com/CharuKes/finalCapstone/blob/main/other_projects/deforestation_project_udacity_SQL/table_relationship/Deforestation%20DB.PNG)
+3. The relationship between 3 tables can be seen [here](https://github.com/CharuKes/finalCapstone/blob/main/other_projects/deforestation_project_udacity_SQL/table_relationship/Deforestation%20DB.PNG).
 4. To create ```view``` use SQL statement from §5 of [Deforestation Exploration Project](https://github.com/CharuKes/finalCapstone/blob/main/other_projects/deforestation_project_udacity_SQL/Deforestation%20Exploration%20Project.pdf).
 5. This view will be used to run all SQL queries to produce the result for a given scenario in [Deforestation Exploration Project](https://github.com/CharuKes/finalCapstone/blob/main/other_projects/deforestation_project_udacity_SQL/Deforestation%20Exploration%20Project.pdf).
 
