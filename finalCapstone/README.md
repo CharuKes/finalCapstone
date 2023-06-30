@@ -34,10 +34,10 @@ Note: If you already have the repository cloned, make sure to fetch the latest c
 
 Once you have installed the project, you can use the PDF files for reference or study. Here are the suggested ways to utilize them:
 
-### NLP1
+### NLP-1
    - Open the `NLP-1.pdf` file to explore different use cases and their corresponding NLP application categorizations.
    - The use-case analysis highlights three applications of Natural Language Processing (NLP). These include email folder allocation using text classification, essay grading assistance through predefined criteria, and diagnostic assistive technology leveraging question-answering techniques. These examples showcase the diverse functionalities and benefits of NLP in managing emails, grading essays, and aiding in medical diagnoses.
-### NLP2
+### NLP-2
    - Open the `NLP-2.pdf` file to learn about the innovative technology behind Google Assistant.
    - Google Assistant, available on smartphones and smart speakers, utilizes advanced NLP techniques to provide intelligent question answering and natural language interactions. Developed by Google, it integrates cutting-edge NLP algorithms and language models to understand and respond effectively to user queries. By leveraging deep learning models and advanced linguistic analysis, Google Assistant delivers accurate and timely information, performs tasks, and offers personalized assistance, facilitating seamless communication and efficient task completion.
 
