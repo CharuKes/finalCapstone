@@ -114,7 +114,7 @@ while True:    # Using while loop to loop over user_input, if user_input is not 
         i = (k / 100) / 12    # Function to calculate rate of interest percentage monthly
         repayment = (i * Q) / (1 - (1 + i) ** (-n))  # Function to calculate bond repayment
         # Final print statement for bond repayment after calculation
-        print(f"The monthly bond repayment amount  = ${repayment:.2f} ")
+        print(f"The monthly bond repayment amount  = {repayment:.2f} ")
 
     else:
         print('\n'"Invalid Input!Please enter 'investment' or 'bond' . ")
