@@ -8,7 +8,7 @@ The final capstone project was divided into two parts: NLP 1 and NLP 2. NLP 1 ex
 - [Credits](#credits)
 - [Reference](#reference)
 
-## Installation
+## Installation 
 
 To access the project and view the PDF files locally, please follow these steps:
 
